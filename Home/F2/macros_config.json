@@ -1,0 +1,12 @@
+{
+    "wer": {
+        "combo": "123456",
+        "delay": 20,
+        "bind_key": "f"
+    },
+    "wer2": {
+        "combo": "789",
+        "delay": 20,
+        "bind_key": "f"
+    }
+}
